@@ -100,6 +100,19 @@
 
 * section .small1 .textSmall1 {
   border: 1px solid blue;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+* section .small1 .textSmall1 h3 {
+  margin-bottom: 30px;
+  font-size: 32px;
+}
+
+* section .small1 .textSmall1 span {
+  font-size: 40px;
 }
 
 * section .small1 .textSmall1 button {
@@ -125,6 +138,14 @@
 
 * section .small2 .textSmall2 {
   border: 1px solid blue;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+* section .small2 .textSmall2 h3 {
+  margin-bottom: 30px;
+  font-size: 32px;
 }
 
 * section .small2 .textSmall2 ul {
